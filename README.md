@@ -2,7 +2,6 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: IG @___forero____
 
 <!---
 julianforero1/julianforero1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
